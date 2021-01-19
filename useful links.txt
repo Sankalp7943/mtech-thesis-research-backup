@@ -1,0 +1,16 @@
+OPTIMIZERS
+
+https://keras.io/api/optimizers/
+
+https://www.tensorflow.org/api_docs/python/tf/keras/optimizers#functions_2
+
+https://pytorch.org/cppdocs/api/classtorch_1_1optim_1_1_optimizer.html
+
+
+
+
+VISUALIZATION
+
+https://medium.com/district-data-labs/visual-diagnostics-for-more-informed-machine-learning-7ec92960c96b
+
+NI teckweek jupyter notebook for different visualization
